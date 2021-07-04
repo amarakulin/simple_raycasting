@@ -1,16 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: tilda <marvin@42.fr>                       +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2020/12/29 22:46:55 by tilda             #+#    #+#              #
-#    Updated: 2020/12/29 22:46:56 by tilda            ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
-#gw parser.c libmlx.dylib -framework OpenGL -framework AppKit libft/libft.a get_next_line.c get_next_line_utils.c main.c sort_decreasing.c validate_map.c print_out.c  init_data.c texture_calculation.c wall_casting.c sprite_casting.c load_img.c validate_param.c read_file.c screen_save.c utils_validate.c utils_clean_error.c run_window.c buttons.c
 
 NAME = cub3D
 CC = gcc
